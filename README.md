@@ -7,3 +7,6 @@ Compile: `g++ src/interpreter.cpp -o brainfuck`
 
 ---
 *Released under the MIT License by Sassywow.*
+
+---
+*Released under the MIT License by jocck96.*
